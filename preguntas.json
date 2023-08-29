@@ -1,0 +1,212 @@
+[
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuando acabó la segunda guerra mundial?",
+        "respuesta": "1945",
+        "incorrecta1": "1967",
+        "incorrecta2": "1934",
+        "incorrecta3": "1947",
+        "imagen": "imagenes/guerra.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cuál fue el primer metal que el hombre empleó?",
+        "respuesta": "El Cobre",
+        "incorrecta1": "El Magnesio",
+        "incorrecta2": "El Oro",
+        "incorrecta3": "El Aluminio",
+        "imagen": "imagenes/metales.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+        "respuesta": "1492",
+        "incorrecta1": "1468",
+        "incorrecta2": "1478",
+        "incorrecta3": "1459",
+        "imagen": "imagenes/colon.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En qué país se originó la civilización azteca?",
+        "respuesta": "Mexico",
+        "incorrecta1": "Colombia",
+        "incorrecta2": "Perú",
+        "incorrecta3": "Chile",
+        "imagen": "imagenes/aztecas.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En qué país se usó la primera bomba atómica?",
+        "respuesta": "Japón",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Corea del Sur",
+        "incorrecta3": "España",
+        "imagen": "imagenes/bomba.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En qué año se produjo la Revolución Francesa?",
+        "respuesta": "1789",
+        "incorrecta1": "1756",
+        "incorrecta2": "1734",
+        "incorrecta3": "1713",
+        "imagen": "imagenes/francesa.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es la ciudad de los rascacielos?",
+        "respuesta": "New York",
+        "incorrecta1": "Dubai",
+        "incorrecta2": "Chicago",
+        "incorrecta3": "Tokio",
+        "imagen": "imagenes/rascacielos.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Dónde se encuentra el museo del Louvre?",
+        "respuesta": "Paris",
+        "incorrecta1": "Londres",
+        "incorrecta2": "Boston",
+        "incorrecta3": "Seúl",
+        "imagen": "imagenes/museo.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Cuál es el río más largo del planeta?",
+        "respuesta": "El Amazonas",
+        "incorrecta1": "El Nilo",
+        "incorrecta2": "El Río Misisipi",
+        "incorrecta3": "El Volga",
+        "imagen": "imagenes/rio.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿Dónde está la Casa Blanca?",
+        "respuesta": "Washington D.C.",
+        "incorrecta1": "Dallas",
+        "incorrecta2": "San Francisco",
+        "incorrecta3": "Miami",
+        "imagen": "imagenes/casa.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó “la última cena”?",
+        "respuesta": "Leonardo DaVinci",
+        "incorrecta1": "Tizano",
+        "incorrecta2": "Tintoretto",
+        "incorrecta3": "Donatello",
+        "imagen": "imagenes/cena.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿En donde surgio el renacimiento?",
+        "respuesta": "Italia",
+        "incorrecta1": "Francia",
+        "incorrecta2": "España",
+        "incorrecta3": "Alemania",
+        "imagen": "imagenes/renacimiento.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó la obra “Diego y yo”?",
+        "respuesta": "Frida Kahlo",
+        "incorrecta1": "Diego Rivera",
+        "incorrecta2": "Leonora Carrington",
+        "incorrecta3": "Dr. Atl",
+        "imagen": "imagenes/frida.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "respuesta": "Van Gogh",
+        "incorrecta1": "Paul Cézanne",
+        "incorrecta2": "Georges Seurat",
+        "incorrecta3": "Henri de Toulouse-Lautrec",
+        "imagen": "imagenes/estrellada.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó la Capilla Sixtina?",
+        "respuesta": "Miguel Ángel",
+        "incorrecta1": "Filippo Brunelleschi",
+        "incorrecta2": "Leonardo da Vinci",
+        "incorrecta3": "Tiziano",
+        "imagen": "imagenes/capilla.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién pintó el “Guernica”?",
+        "respuesta": "Pablo Picasso",
+        "incorrecta1": "George Braque",
+        "incorrecta2": " Juan Gris",
+        "incorrecta3": "Albert Gleizes",
+        "imagen": "imagenes/guernica.png",
+        "objectFit": "contain"
+    }, 
+    {
+        "categoria": "Literatura",
+        "pregunta": "¿Quién escribió “100 años de soledad”?",
+        "respuesta": "Gabriel García Márquez",
+        "incorrecta1": "Candelario Obeso",
+        "incorrecta2": "Rafael Pombo",
+        "incorrecta3": "Jorge Isaacs",
+        "imagen": "imagenes/años.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "¿Quién escribió 'Mafalda'?",
+        "respuesta": "Salvador Lavado Tejón",
+        "incorrecta1": "René Rodolfo Ríos Boettiger",
+        "incorrecta2": "Ziraldo",
+        "incorrecta3": "Jim Davis",
+        "imagen": "imagenes/mafalda.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "¿Quién es el autor del libro “El principito”?",
+        "respuesta": "Antoine de Saint-Exupéry",
+        "incorrecta1": "Edgar Allan Poe",
+        "incorrecta2": "Miguel de Cervantes",
+        "incorrecta3": "Paulo Coelho",
+        "imagen": "imagenes/principito.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "¿Cómo se llamaba el caballo de Don Quijote de la Mancha?",
+        "respuesta": "Rocinante",
+        "incorrecta1": "Estella",
+        "incorrecta2": "Rocia",
+        "incorrecta3": "Dulcinea",
+        "imagen": "imagenes/quijote.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "¿Cuándo se publicó la primera parte de Don Quijote de la Mancha?",
+        "respuesta": "1605",
+        "incorrecta1": "1615",
+        "incorrecta2": "1610",
+        "incorrecta3": "1608",
+        "imagen": "imagenes/don.png",
+        "objectFit": "contain"
+    }
+]
